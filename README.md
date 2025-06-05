@@ -2,7 +2,12 @@
 
 An anything tools for Linux
 
-## 💰 Donation
+## TODO
+
+ - [ ] Windows version
+ - [ ] Add real endpoint to monitor
+
+## Donation
 
 [![BITCOIN](https://img.shields.io/badge/BTC-1K6Sh6kAFb5UJwydXkAntFZPk5NLNw1nSs-yellow.svg?style=for-the-badge&logo=bitcoin)](bitcoin:1K6Sh6kAFb5UJwydXkAntFZPk5NLNw1nSs)
 
